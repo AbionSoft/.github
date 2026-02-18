@@ -13,7 +13,7 @@
 
 We'd love to hear from you! Reach out to collaborate, ask questions, or learn more:
 
-- 📧 **Email:** [abionlabs@gmail.com](mailto:abionlabs@gmail.com)
+- 📧 **Email:** [abionsoft@gmail.com](mailto:abionsoft@gmail.com)
 - 📱 **Phone:** +977-9868348282
 - 📍 **Location:** Tokha, Kathmandu, Nepal
 <!-- - 🌐 **Website/Portfolio:** [Coming Soon]
